@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="616632cd-17bc-4295-994c-c3628c6aa90b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1VQzmyqRovK9H5GHaLtpR7a0QrG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DevFolio/img" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PetiVIP\Desktop\DevFolio\DevFolio\img" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="616632cd-17bc-4295-994c-c3628c6aa90b" name="Default Changelist" comment="" />
+      <created>1577200269945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577200269945</updated>
+      <workItem from="1577200271525" duration="171000" />
+      <workItem from="1577212258200" duration="1451000" />
+      <workItem from="1577256120731" duration="603000" />
+      <workItem from="1577367016743" duration="615000" />
+      <workItem from="1577538318143" duration="5567000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="512" y="308" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577538671101">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="512" y="308" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1577538671101" />
+    <state x="499" y="252" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577539863578">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="252" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1577539863578" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1577204235752">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1577204235752" />
+    <state x="760" y="308" key="com.intellij.ide.util.TipDialog" timestamp="1577538318135">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="2870" y="389" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577367016355" />
+    <state x="760" y="308" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1577538318135" />
+    <state x="209" y="114" key="new project wizard" timestamp="1577217584132">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="114" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1577217584132" />
+  </component>
+</project>
